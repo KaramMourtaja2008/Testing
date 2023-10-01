@@ -1,0 +1,23 @@
+body{
+     background-image: url("background.jpg");
+     background-repeat: no-repeat;
+     background-color: #ff9419;
+     background-position:top;
+     background-size: 100%;
+     background-attachment: fixed;
+     backdrop-filter: blur(1px);
+     ;
+}
+.img1{
+    width: 50%;
+    height: 50% ;
+    border: rgb(6, 6, 141) solid;
+    border-radius: 10px;}
+.img2{border-radius: 10px;}
+h3{ margin: 70px;
+    color: rgb(247, 218, 175);}
+H2{margin:70px; 
+    color: rgb(247, 218, 175);}
+h1{ text-align: center;
+color: rgb(247, 218, 175);}
+
